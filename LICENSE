@@ -1,0 +1,26 @@
+# **Adaliom License Agreement**
+
+**Copyright (c) 2025 StudiCraft (the "Licensor")**
+
+This Adaliom License Agreement (the "Agreement") sets forth the terms and conditions under which the Licensor grants rights to the software identified herein (the "Software"). The acceptance and use of the Software by any person (the "Licensee") constitutes acceptance of this Agreement.
+
+## **Section 1: Grant of License and Permitted Use**
+
+Subject to the restrictions defined in Section 2, the Licensor hereby grants to the Licensee a non-exclusive, non-transferable right to perform the following:
+
+1. **In-Game Utilization:** The Licensee is authorized to incorporate and execute the Software, including any authorized modifications, within any proprietary Roblox game environment for public consumption. The resulting functions and output of the Software may be visible to public players.  
+2. **Code Modification:** The Licensee is permitted to modify the source code of the Software solely for the purpose of integrating, customizing, and adapting it for the Licensee's designated game environment.  
+3. **Public Content Showcasing:** The Licensee may create and distribute promotional content (e.g., videos, streams) on public platforms to showcase the Software, subject to the following conditions:  
+   * **Original Code:** Demonstration must pertain exclusively to the original, unmodified features of the Software.  
+   * **Live Modification:** Modifications to the source code may be displayed only if the act of code alteration is **clearly visible and performed live** during the recording or streaming session.  
+   * **Prohibition:** Showcasing any pre-compiled, pre-saved, or derivative modified versions created outside of the live recording session is strictly prohibited.
+
+## **Section 2: Restrictions and Obligations**
+
+The Licensee is expressly and unconditionally prohibited from performing or facilitating the following actions:
+
+1. **PUBLIC REDISTRIBUTION:** The Licensee shall not copy, upload, publish, share, or otherwise redistribute the source code of the Software, or any modified versions or derivatives thereof, in any public form or medium whatsoever, including but not limited to public repositories (GitHub, GitLab), application marketplaces (Roblox Marketplace), and file-sharing platforms (Discord, Google Drive, forums, etc.).  
+2. **COMMERCIAL MONETIZATION:** The Licensee shall not sell the Software, or any modified version thereof, for monetary gain, nor shall the Software constitute the primary revenue-generating feature of any commercial product, without obtaining prior explicit written consent from the Licensor.  
+3. **LICENSE RETENTION (MANDATORY):** The Licensee **shall retain and reproduce** this entire LICENSE file and its contents without any alteration in every copy, fork, or derivative work of the Software they create. Failure to retain this file constitutes a breach of this Agreement.
+
+The Licensor reserves all rights not expressly granted to the Licensee under the terms of this Agreement.
